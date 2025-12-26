@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snigdha!
-- 💡 **Aspiring Data Scientist | Python & Machine Learning Enthusiast**
+- 💡 **Data Scientist | Python & Machine Learning Enthusiast**
 - 🎯 Exploring **Data Science, AI, and Analytics**
 - 📈 Passionate about **Data and its impact on human life**
 - 📩 Reach me at: snigdha.chandratre@gmail.com
